@@ -9,12 +9,12 @@ This is a all in one cryptosystem dump where you can find all the programs as pe
 ## Important Features
 
   1. AES
-	2. Affine Cipher
-	3. Auto Key
-	4. Brute Force
-	5. CBC
- 	6. Diffie Hellman
-	7. Hill Cipher
+  2. Affine Cipher
+  3. Auto Key
+  4. Brute Force
+  5. CBC
+  6. Diffie Hellman
+  7. Hill Cipher
   8. HMAC
   9. MD5
   10. Modes of AES
